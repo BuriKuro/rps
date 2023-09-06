@@ -1,2 +1,2 @@
 # rps
-Javascript rock paper scissors game.
+Javascript rock paper scissors game, but Pokemon themed.
